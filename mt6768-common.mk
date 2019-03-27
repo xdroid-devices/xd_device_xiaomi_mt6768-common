@@ -389,6 +389,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     NoCutoutOverlay \
+    NotchBarKiller \
     WifiOverlay \
     TetheringConfigOverlay \
     android.hardware.wifi@1.0.vendor \
